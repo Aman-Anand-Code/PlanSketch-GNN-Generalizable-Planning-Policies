@@ -1,0 +1,4 @@
+Evaluation Setting,Grid Sizes,Metric,Value
+Small seen-size grids,"4, 5, 6",Action Prediction Accuracy,71.67
+Larger unseen grids,"7, 8, 9",Action Prediction Accuracy,66.33
+Generalization,Train small → Test large,Generalization Gap,5.33
